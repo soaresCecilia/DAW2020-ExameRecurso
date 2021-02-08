@@ -115,8 +115,19 @@ PROXSOFT
 EVENTEX
 ATGEN
 GROK
+</p>
 
+<p>
+Persistência de dados, do setup de bases de dados (como importou os registos ...)</p>
+<p>
+A persistência da Bd foi feita em mongo e o setup da mesma foi com o comando acima descrito.
+</p>
 
+<p>
+ instruções de como executar as aplicações desenvolvidas
+</p>
+A aplicação foi criada com o Express e para correr a aplicação basta instalar o Express, os módulos
+necessários e executar o comando npm start. O servidor está a correr na porta 8003.
    
 
     </abstract>
