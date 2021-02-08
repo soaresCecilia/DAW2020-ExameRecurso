@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pr SYSTEM "PR.dtd">
+<pr>
+    <meta>
+        <key>DAW Exame</key>
+        <title>Exame</title>
+        <bdate>08/02/2021</bdate>
+        <edate>08/02/2021</edate>
+        <supervisor>jcr</supervisor>
+    </meta>
+    <team>
+        <member id="a34900">
+            <name>Cecilia Soares</name>
+            <email>cecilia.oliveira.soares@gmail.com</email>
+        </member>
+    </team>
+    <abstract>
+    <p>
+        Importa o dataset numa base de dados em MongoDB, denominada "PEI2020", e para um coleção denominada "teams";
+        
+        No terminal usar o comando $ mongoimport -d PEI2020 -c teams --jsonArray db.json
+
+	<p>
+		Sobre esta base de dados especifica as seguintes queries:
+
+	</p>
+
+        Quantas equipes existem na base de dados?
+        87
+	<p>
+		Quais as equipes? (lista com os nomes das equipes ordenada alfabeticamente)
+        EQUICOM
+        ANARCO
+        XUMONK
+        CYTREX
+        NEXGENE
+        STEELTAB
+        MIRACLIS
+        FITCORE
+        REVERSUS
+        FLUMBO
+        COMSTRUCT
+        ZILLACOM
+        CHILLIUM
+        DATAGEN
+        XELEGYL
+        FOSSIEL
+        ZENTIME
+        ISBOL
+        ZBOO
+        BOSTONIC
+        ZAPHIRE
+        ENDIPIN
+        HYPLEX
+        TELEPARK
+        EARTHPURE
+        ZEAM
+        EXTRAWEAR
+        KONGENE
+        VELITY
+        ISOTERNIA
+        REALMO
+EVENTIX
+ZOGAK
+DOGNOST
+INEAR
+NIPAZ
+AQUASSEUR
+GEEKKO
+HOTCAKES
+PROSELY
+EXOPLODE
+ORBALIX
+SHOPABOUT
+NEWCUBE
+ZOLAREX
+ZIALACTIC
+CEMENTION
+GUSHKOOL
+PHEAST
+ACCUPHARM
+VERTON
+FURNIGEER
+LIMOZEN
+YOGASM
+DIGINETIC
+XPLOR
+ZAYA
+RECRISYS
+TRI@TRIBALOG
+ARCTIQ
+PORTALINE
+EARGO
+IDEALIS
+PLUTORQUE
+ONTAGENE
+ERSUM
+GLEAMINK
+UTARA
+EZENT
+IRACK
+HYDROCOM
+RUBADUB
+TRANSLINK
+NETERIA
+GEEKETRON
+SQUISH
+CORECOM
+EXOZENT
+RUGSTARS
+DADABASE
+COMCUBINE
+COLAIRE
+PROXSOFT
+EVENTEX
+ATGEN
+GROK
+
+
+   
+
+    </abstract>
+    <deliverables>
+
+        <link url=""></link>
+	<link url="">batismo.js</link>
+	<link url="">app.js</link>
+
+	<link url="">app.js</link>
+        <link url="">index.js</link>
+        <link url="">*.js</link>
+
+        <link url="PR.xml">PR.xml</link>
+
+
+    </deliverables>
+</pr>
